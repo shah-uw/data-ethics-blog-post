@@ -22,7 +22,16 @@ As official and publicly reported data that implicates the behavior and spending
 
 In organizing and sorting the data, I wanted to focus specifically on contracts implicating Westlaw and LexisNexis or their parent companies, Thomson Reuters and RELX. To achieve this, I filtered for recipient names where the string included references to Thomson, West Publishing, Lexis, or RELX. Then, I was able to create a new column based on the contracts’ period of the performance start date and arrange that data by year. Finally, I summarized the contract data by calculating the total award amount grouped by the year. 
 
-[table]
+| Year     | Total Contract Awards |
+|----------|-----------------------|
+| 2018     | $4,106,461            |
+| 2020     | $4,607,997            |
+| 2021     | $46,791,073           |
+| 2022     | $60,485,126           |
+| 2023     | $5,588,166            |
+| 2024     | $8,668,113            |
+| 2025     | $9,434,669            |
+| 2026     | $5,367,963            |
 
 Through my data analysis, I learned that the Department of Homeland Security has spent at least a total of $145,049,568 on contracts with RELX and Thomson Reuters between the years 2018 to 2026. 
 
