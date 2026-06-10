@@ -39,7 +39,7 @@ Through my data analysis, I learned that the Department of Homeland Security has
 
 First, when considering the total spending by year, we can see that the highest amount of spending took place in 2022, when the Department of Homeland Security formed contracts totaling over $60 million with these two major data companies. The year prior, the agency had spent $46 million, which was a drastic increase from 2020’s spending of $4.6 million. After 2022, the amount of new spending dropped off significantly, with the most recent spending from the first three months of 2026 totaling $5,367,963. However, one noteworthy explanation for why 2021 and 2022 seem disproportionately high is because these contracts have multi-year periods. Some of the contracts formed in 2021 and 2022 were not set to expire until 2025 or beyond, so this can explain why the government did not need to form brand new contracts to continue receiving the same services. 
 
-<iframe src="plot_2.html" width="800px" height=500px" frameborder="0"></iframe>
+<iframe src="plot_2.html" width="800px" height="500px" frameborder="0"></iframe>
 
 Second, when visualizing the data by the specific entity, we can see that LexisNexis contracted for the highest value award with the Department of Homeland Security in 2021, amounting to $22.1 million for what was described as “a law enforcement investigative database subscription.” Through this data, we also see that LexisNexis and RELX have consistently been awarded higher contracts than Thomson Reuters or West Publishing from 2020-2026. 
 
