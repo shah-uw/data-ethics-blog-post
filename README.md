@@ -48,8 +48,26 @@ Second, when visualizing the data by the specific entity, we can see that LexisN
 
 Third, while most people commonly associate the Department of Homeland Security with Immigration and Customs Enforcement, the overall Department also houses numerous other subagencies that are also involved with surveillance and policing. When we break down the spending by the subagencies on these databases between 2018-2026, we see that multiple subagencies are investing in surveillance tools. This includes U.S. Customs and Border Protection and the U.S. Coast Guard in 2020, the Transportation Security Administration and U.S. Secret Service in 2021, U.S. Citizenship and Immigration Services and the Federal Emergency Management Agency in 2023, Federal Law Enforcement Training Center and Office of the Inspector General in 2024, and the Office of Intelligence and Analysis and Cybersecurity and Infrastructure Security Agency in 2025.
 
+### Future Work
+
+This project will hopefully be ongoing, because these contracts are continuing to be made in 2026 onwards. The U.S. government continues to regularly commit billions of dollars of funding to the Department of Homeland Security and Immigration and Customs Enforcement, in an era where digital surveillance is becoming more pronounced across the Internet. 
+
+With more time and resources, I would be interested in drilling further down into the details of each of these contracts, researching which corporate and political individuals are involved in actually forming them between these private companies and the federal government, and tracking law school expenditures specifically. 
+
+Relatedly, there are so many groups organizing to push back against this issue, including Mijente and the #NoTechForICE campaign, who have already been publishing great research and information. It would be great to plug into those existing efforts and track how far we've come at raising awareness of this issue. 
+
 ### Conclusion
 
 Overall, this data helps us understand just how wide of a net the U.S. federal government casts to collect data on every individual residing within its borders, all without the need to obtain a warrant or congressional oversight. Multiple subagencies within the Department of Homeland Security contract specifically with Thomson Reuters and LexisNexis for access to their databases and digital infrastructure, for a total of over $145 million from 2018 to the present. Although there was a distinct peak in spending between 2021 and 2022, the Department of Homeland Security has continued forming multi-million-dollar contracts with these companies or reaping the advantages of contracts that exist across a span of five years or more. Interestingly, LexisNexis and its parent company RELX have received more federal investment than Thomson Reuters/West Publishing, which could indicate where our efforts pushing back against these practices are most effectively spent. 
 
 Law librarians are caught in a difficult position where they rely on commercial legal database tools for our research and instruction, and to meet our professional standards. However, Westlaw and LexisNexis’ corporate practices are destructive and harmful to our communities, particularly immigrants and people of color. As a community, academic law librarians can engage in practical strategies such as limiting vendor presence on campus, teaching alternatives to mainstream commercial research platforms, and contributing to organizing efforts to put pressure on legal research companies to discontinue harmful practices. Hopefully this data analysis helps law librarians identify the scale of the damage being done, and illustrates where the most effective pressure points for organizing and pushing back are. 
+
+## References: 
+[DATA Act (2014)](https://www.grants.gov/learn-grants/grant-policies/data-act-2014)
+[USA Spending Custom Award Data Download Center](https://www.usaspending.gov/download_center/custom_award_data)
+[Sarah Lambdan, When Westlaw Fuels ICE Surveillance: Legal Ethics in the Era of Big Data Policing (2019)](https://heinonline.org/HOL/Page?public=true&handle=hein.journals/nyuls43&div=13&start_page=255&collection=journals&set_as_cursor=3&men_tab=srchresults)
+[Maurizio Guerrero, The Data Brokers Fueling ICE's Deportation Machine - And the Union Shareholders Fighting Back (2025)](https://inthesetimes.com/article/ice-deportation-machine-surveillance-artificial-intelligence-thomson-reuters-clear-trump)
+[Katy DiVittorio & Lorelle Gianelli, Ethical Financial Stewardship: One Library's Examination of Vendors' Business Practices (2021)](https://www.inthelibrarywiththeleadpipe.org/2021/ethical-financial-stewardship/)
+[Kaarthika Thakker, How Lexis+ and Westlaw Fuel ICE's Deportation Machine](https://btlj.org/2026/05/how-lexis-and-westlaw-fuel-ices-deportation-machine/)
+[National Immigration Project, Immigrant Defense Project & Mijente, Who's Behind ICE? The Tech Companies Fueling Deportations](https://mijente.net/wp-content/uploads/2023/02/Who-is-Behind-ICE-The-Tech-and-Data-Companies-Fueling-Deportations_v4.pdf)
+
