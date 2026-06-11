@@ -14,7 +14,7 @@ My data is found through the government’s USA Spending page, collected by the 
 
 ### Ethical Concerns and Limitations
 
-The federal government agencies reporting this data have likely cleaned and represented the information in the broadest way allowed by the DATA Act. The information itself does not reveal specifics about exactly what services companies are providing to the U.S. government and speaks more to the general themes. Further, the companies listed in the data as being awarded government contracts may have associations or affiliations not explained by the data itself, so the user must do an extra step in researching what those may be.  
+The federal government agencies reporting this data have likely cleaned and represented the information in the broadest way allowed by the DATA Act. The information itself does not reveal specifics about exactly what services companies are providing to the U.S. government and speaks more to the general themes. This means that some of the data used in this analysis may or may not have been used precisely for investigative legal databases. However, for the sake of this project and in an ethical sense, any money spent by the Department of Homeland Security on Thomson Reuters or RELX is being put to the purposes of surveillance, detention, or the maintenance of that policing infrastructure. Further, the companies listed in the data as being awarded government contracts may have associations or affiliations not explained by the data itself, so the user must do an extra step in researching what those may be.  
 
 As official and publicly reported data that implicates the behavior and spending of the federal government, there are not glaring ethical issues with using this data. The federal government should rightfully have obligations to transparently publish this information, and we should know how our money is being used and weaponized against marginalized communities.
 
@@ -32,6 +32,7 @@ In organizing and sorting the data, I wanted to focus specifically on contracts 
 | 2024     | $8,668,113            |
 | 2025     | $9,434,669            |
 | 2026     | $5,367,963            |
+| Total    | $145,049,568          |
 
 Through my data analysis, I learned that the Department of Homeland Security has spent at least a total of $145,049,568 on contracts with RELX and Thomson Reuters between the years 2018 to 2026. 
 
