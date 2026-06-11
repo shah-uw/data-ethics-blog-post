@@ -64,10 +64,16 @@ Law librarians are caught in a difficult position where they rely on commercial 
 
 ## References: 
 [DATA Act (2014)](https://www.grants.gov/learn-grants/grant-policies/data-act-2014)
+
 [USA Spending Custom Award Data Download Center](https://www.usaspending.gov/download_center/custom_award_data)
+
 [Sarah Lambdan, When Westlaw Fuels ICE Surveillance: Legal Ethics in the Era of Big Data Policing (2019)](https://heinonline.org/HOL/Page?public=true&handle=hein.journals/nyuls43&div=13&start_page=255&collection=journals&set_as_cursor=3&men_tab=srchresults)
+
 [Maurizio Guerrero, The Data Brokers Fueling ICE's Deportation Machine - And the Union Shareholders Fighting Back (2025)](https://inthesetimes.com/article/ice-deportation-machine-surveillance-artificial-intelligence-thomson-reuters-clear-trump)
+
 [Katy DiVittorio & Lorelle Gianelli, Ethical Financial Stewardship: One Library's Examination of Vendors' Business Practices (2021)](https://www.inthelibrarywiththeleadpipe.org/2021/ethical-financial-stewardship/)
+
 [Kaarthika Thakker, How Lexis+ and Westlaw Fuel ICE's Deportation Machine](https://btlj.org/2026/05/how-lexis-and-westlaw-fuel-ices-deportation-machine/)
+
 [National Immigration Project, Immigrant Defense Project & Mijente, Who's Behind ICE? The Tech Companies Fueling Deportations](https://mijente.net/wp-content/uploads/2023/02/Who-is-Behind-ICE-The-Tech-and-Data-Companies-Fueling-Deportations_v4.pdf)
 
